@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-17)
+## Unreleased (2026-05-12)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`1ba3724`](https://github.com/stdlib-js/stdlib/commit/1ba37246a4f68a546b4f9d126a9ce6723beaae05) - **refactor:** remove unnecessary generics _(by Athan Reines)_
+-   [`dce1831`](https://github.com/stdlib-js/stdlib/commit/dce18312592c7a86a838fae3f6c594ca2c69f7d0) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`5eb7aea`](https://github.com/stdlib-js/stdlib/commit/5eb7aea36a642f90891018aaacd7d3d943fbcf4c) - **docs:** add missing notes _(by Athan Reines)_
 
 </details>
